@@ -1,0 +1,48 @@
+body {
+	background: url("http://www.iconpaper.org/preview/13021900b.jpg");
+}
+
+h1 {
+	margin-top: 40px;
+	font-size: 40px;
+	color: black;
+	font-family: "Harry Potter", Georgia, Arial;
+}
+
+.container {
+	border: solid 3px black;
+	margin: auto;
+	position: absolute;
+    top:0;
+    bottom: 0;
+    left: 20px;
+    right: 20px;
+	text-align: center;
+	background: grey;
+	height: 460px;
+	width: auto;
+}
+
+.btn {
+	color: darkred;
+	margin-top: 20px;
+	background: lightyellow;
+	border: solid 3px;
+	width: 250px;
+}
+
+.answers {
+	margin-top: 10px;
+	text-align: center;
+	height: 50px;
+}
+
+h4:hover{
+	height: 40px;
+	color: darkred;
+	background: lightyellow;
+	border: solid 3px;
+	border-radius: 10px;
+	margin-top: 10px;
+	text-align: center;
+}
